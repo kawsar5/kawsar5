@@ -1,0 +1,1 @@
+The image files in this folder are public web assets for the academic portfolio. Binary JPEG assets are stored as Git blobs and referenced from the live website through raw.githubusercontent.com.
