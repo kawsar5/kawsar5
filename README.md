@@ -24,16 +24,6 @@ I am developing an interpretable, simulation-driven workflow for electric-vehicl
 
 > Additional data, code, and reproducibility materials will be linked here when they are ready for public release.
 
-## Featured projects
-
-### [ArduinoRadar](https://github.com/kawsar5/ArduinoRadar)
-
-An Arduino and Processing radar-style visualization built with an ultrasonic distance sensor and a servo motor. The Arduino performs the scan and streams angle-distance measurements over serial, while Processing renders the results in real time.
-
-### [Traffic Intersection Controller](https://github.com/kawsar5/kawsar5/blob/master/TRAFFIC%20INTERSECTION)
-
-An Arduino prototype combining a photoresistor, pedestrian-request button, servo-controlled barrier, buzzer, traffic lights, and seven-segment countdown display.
-
 ## Open to collaboration
 
 I am interested in research and development involving crash safety, battery protection, thin-walled structures, CAE, engineering machine learning, and optimization.
